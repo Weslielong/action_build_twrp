@@ -8,7 +8,7 @@
   "dt_branch": "omni-9.0-decrypt",
   "dt_remote": "github",
   "dt_path": "device/lge/judyln",
-  "device_code": "Babel",
+  "device_code": "judyln",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
