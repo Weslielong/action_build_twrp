@@ -7,7 +7,7 @@
   "dt_url": "Weslielong/android_device_lge_judyln_twrp",
   "dt_branch": "omni-9.0-decrypt",
   "dt_remote": "github",
-  "dt_path": "device/xiaomi/Babel",
+  "dt_path": "device/lge/judyln",
   "device_code": "Babel",
   "use_omin_head": true,
   "use_repair_manifest": false,
